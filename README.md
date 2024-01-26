@@ -6,9 +6,10 @@ Fechas más importantes - Cronograma
 
 +               Apunta estas fechas importantes en tu agenda personal:              
                                [ENERO 2024]
+
 15ENE24 (LUNES) Liberación de las Formaciones: Etapa Selección y Desarrollo Personal;
 
-16ENE24 (MARTES) Evento Participa de este evento para saber las principales informaciones del programa ONE: 9PM GMT -3 ¡Activa tu notificación del evento Hello ONE a las 9PM (GMT - 3) aquí!
++  16ENE24 (MARTES) Evento Participa de este evento para saber las principales informaciones del programa ONE: 9PM GMT -3 ¡Activa tu notificación del evento Hello ONE a las 9PM (GMT - 3) aquí!
 
 17ENE24 (MIÉRCOLES): Liberación de la formacion Principiante en Programación;
 
